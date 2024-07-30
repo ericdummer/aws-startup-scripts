@@ -1,0 +1,19 @@
+# Ignore shell script execution output
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore compiled binaries
+*.o
+*.out
+
+# Ignore backup files
+*~
+
+# Ignore generated files
+*.bak
+*.zip
+*.tar.gz
+
+.env*
